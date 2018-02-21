@@ -1,0 +1,22 @@
+{
+  "name": "d3examples",
+  "version": "1.0.0",
+  "description": "d3 samples from tutorials and such.",
+  "main": "example1/index.html",
+  "scripts": {
+    "test": "http-server &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianme213/d3Examples.git"
+  },
+  "author": "Adrian Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianme213/d3Examples/issues"
+  },
+  "homepage": "https://github.com/adrianme213/d3Examples#readme",
+  "dependencies": {
+    "d3": "^4.13.0"
+  }
+}
